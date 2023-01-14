@@ -3,4 +3,8 @@ public struct spm_greet {
 
     public init() {
     }
+    
+    public func getGreet() -> String {
+        return "Hi from SPM"
+    }
 }
