@@ -8,3 +8,4 @@ public struct spm_greet {
         return "Hi from SPM"
     }
 }
+    
